@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/filedialog_wavfile.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/filedialog_wavfile.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_share_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_share_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_minus_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_minus_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/filedialog_folder_up.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/filedialog_folder_up.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_person_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_person_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_chevron_left_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_chevron_left_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_pageview_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_pageview_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_layers_add_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_layers_add_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/folder.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/folder.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_folder_image_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_folder_image_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_add_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_add_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_minus_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_minus_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/file.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/file.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_close_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_close_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_layers_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_layers_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_chevron_right_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_chevron_right_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_info_outline_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_info_outline_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_chevron_left_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_chevron_left_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_redo_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_redo_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_layers_add_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_layers_add_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_room_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_room_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_redo_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_redo_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_person_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_person_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_layers_clear_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_layers_clear_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_folder_image_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_folder_image_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_chevron_right_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_chevron_right_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_share_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_share_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_room_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_room_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_map_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_map_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_check_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_check_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/filedialog_file.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/filedialog_file.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_arrow_drop_down_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_arrow_drop_down_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_location_searching_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_location_searching_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_close_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_close_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_check_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_check_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_undo_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_undo_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_folder_multiple_image_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_folder_multiple_image_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_map_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_map_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_save_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_save_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_search_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_search_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_check_box_outline_blank_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_check_box_outline_blank_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_save_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_save_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_undo_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_undo_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_add_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_add_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/filedialog_folder.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/filedialog_folder.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_pageview_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_pageview_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_my_location_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_my_location_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_my_location_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_my_location_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_folder_multiple_image_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_folder_multiple_image_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_info_outline_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_info_outline_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_database_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_database_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_check_box_outline_blank_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_check_box_outline_blank_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_layers_clear_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_layers_clear_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_location_searching_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_location_searching_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_database_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_database_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_layers_black_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_layers_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_search_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_search_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_arrow_drop_down_grey600_48dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/ic_arrow_drop_down_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/filedialog_root.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/res/drawable-mdpi/filedialog_root.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    }
+]

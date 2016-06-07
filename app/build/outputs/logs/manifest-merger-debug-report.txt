@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:2:1-57:12
+	xmlns:android
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [XMapAS:model:unspecified] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/XMapAS/model/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [XMapAS:core:unspecified] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/XMapAS/core/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [XMapAS:api:unspecified] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/XMapAS/api/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [XMapAS:model:unspecified] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/XMapAS/model/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:14:22-81
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:18:22-76
+application
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:20:5-55:19
+MERGED from [XMapAS:model:unspecified] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/XMapAS/model/unspecified/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [XMapAS:core:unspecified] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/XMapAS/core/unspecified/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [XMapAS:api:unspecified] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/XMapAS/api/unspecified/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [XMapAS:model:unspecified] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/XMapAS/model/unspecified/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from [XMapAS:model:unspecified] /Users/Ryan/Documents/Android/demo/XMapAS/app/build/intermediates/exploded-aar/XMapAS/model/unspecified/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:25:9-67
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:21:9-61
+activity#com.xaircraft.xmap.activity.MainActivity
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:27:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.xaircraft.xmap.activity.ActivityDataCollect
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:35:9-38:20
+	android:configChanges
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:36:13-75
+activity#com.xaircraft.xmap.activity.ActivityMapQuery
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:39:9-42:20
+	android:configChanges
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:41:13-63
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:40:13-72
+activity#com.xaircraft.xmap.activity.AttributeActivity
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:43:9-46:20
+	android:configChanges
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:45:13-63
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:44:13-73
+activity#com.xaircraft.xmap.activity.ActivityLayerManage
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:47:9-50:20
+	android:configChanges
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:48:13-75
+activity#com.xaircraft.xmap.component.FileDialog
+ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:51:9-54:20
+	android:configChanges
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:53:13-63
+	android:name
+		ADDED from /Users/Ryan/Documents/Android/demo/XMapAS/app/src/main/AndroidManifest.xml:52:13-67

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:orientation="horizontal" >
+
+    <ExpandableListView
+        android:id="@+id/elv_mapQuery_showId"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:scrollingCache="false" >
+    </ExpandableListView>
+    
+    <View 
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"/>
+
+    <ListView
+        android:id="@+id/lv_mapQuery_showAttr"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:divider="@android:color/black"
+        android:dividerHeight="2dp"
+        android:scrollingCache="false" >
+    </ListView>
+
+</LinearLayout>

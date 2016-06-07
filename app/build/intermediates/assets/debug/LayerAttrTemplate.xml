@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LayerAttrEntitys>
+  <LayerAttrEntity>
+    <name>地块编号</name>
+    <type>ATT_FIELD_TYPE_STRING</type>
+    <defaultValue>00000</defaultValue>
+  </LayerAttrEntity>
+  <LayerAttrEntity>
+    <name>权利人名称</name>
+    <type>ATT_FIELD_TYPE_STRING</type>
+    <defaultValue>李雷</defaultValue>
+  </LayerAttrEntity>
+  <LayerAttrEntity>
+    <name>地块名称</name>
+    <type>ATT_FIELD_TYPE_STRING</type>
+    <defaultValue>田中</defaultValue>
+  </LayerAttrEntity>
+  <LayerAttrEntity >
+    <name>归属关系</name>
+    <type>ATT_FIELD_TYPE_STRING</type>
+    <defaultValue>租户</defaultValue>
+  </LayerAttrEntity>
+  <LayerAttrEntity >
+    <name>预估面积</name>
+    <type>ATT_FIELD_TYPE_DOUBLE</type>
+    <defaultValue>100.0</defaultValue>
+  </LayerAttrEntity>
+  <LayerAttrEntity >
+    <name>地块面积</name>
+    <type>ATT_FIELD_TYPE_DOUBLE</type>
+    <defaultValue>100.0</defaultValue>
+  </LayerAttrEntity>
+  <LayerAttrEntity >
+    <name>备注</name>
+    <type>ATT_FIELD_TYPE_STRING</type>
+    <defaultValue>null</defaultValue>
+  </LayerAttrEntity>
+  <LayerAttrEntity >
+    <name>修改时间</name>
+    <type>ATT_FIELD_TYPE_DATETIME</type>
+    <defaultValue>20160504 16：30</defaultValue>
+  </LayerAttrEntity>
+</LayerAttrEntitys>

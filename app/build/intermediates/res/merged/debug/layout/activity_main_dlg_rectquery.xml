@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:shrinkColumns="0,2"
+    android:stretchColumns="1,3" >
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/act_dlg_rectquery_xmin"
+            android:textSize="@dimen/activity_main_rectquery_textsize" />
+
+        <EditText
+            android:id="@+id/et_main_rectquery_xmin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:textSize="@dimen/activity_main_rectquery_textsize" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/act_dlg_rectquery_xmax"
+            android:textSize="@dimen/activity_main_rectquery_textsize" />
+
+        <EditText
+            android:id="@+id/et_main_rectquery_xmax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:textSize="@dimen/activity_main_rectquery_textsize" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/act_dlg_rectquery_ymin"
+            android:textSize="@dimen/activity_main_rectquery_textsize" />
+
+        <EditText
+            android:id="@+id/et_main_rectquery_ymin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:textSize="@dimen/activity_main_rectquery_textsize" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/act_dlg_rectquery_ymax"
+            android:textSize="@dimen/activity_main_rectquery_textsize" />
+
+        <EditText
+            android:id="@+id/et_main_rectquery_ymax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:textSize="@dimen/activity_main_rectquery_textsize" />
+    </TableRow>
+
+</TableLayout>

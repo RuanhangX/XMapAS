@@ -1,0 +1,263 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity" >
+
+    <EMap.OV_MapView.OV_MapView
+        android:id="@+id/mapview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <LinearLayout
+        android:id="@+id/llh02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="256dp"
+        android:background="@drawable/shadow"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_add" />
+
+        <Button
+            android:id="@+id/btnMinus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_minus" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/shadow" >
+
+        <Button
+            android:id="@+id/btnNewMap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/selector_add" />
+
+        <Button
+            android:id="@+id/btnMapInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/selector_info" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="地图管理"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="128dp"
+        android:background="@drawable/shadow" >
+
+        <TextView
+            android:id="@+id/tvCurLayer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="14dp"
+            android:hint="图层"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/btnSelectLayer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_arrow_drop_down" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="1dp"
+        android:background="@drawable/shadow" >
+
+        <com.xaircraft.xmap.component.MainImageViewControl
+            android:id="@+id/mivcOpenMap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@+id/mivcDataCollect" >
+        </com.xaircraft.xmap.component.MainImageViewControl>
+
+        <com.xaircraft.xmap.component.MainImageViewControl
+            android:id="@+id/mivcDataCollect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="4dp"
+            android:layout_toLeftOf="@+id/rllMainBottomSignal" >
+        </com.xaircraft.xmap.component.MainImageViewControl>
+
+        <RelativeLayout
+            android:id="@+id/rllMainBottomSignal"
+            android:layout_width="2dp"
+            android:layout_height="32dp"
+            android:layout_centerHorizontal="true" >
+        </RelativeLayout>
+
+        <com.xaircraft.xmap.component.MainImageViewControl
+            android:id="@+id/mivcMapQuery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="4dp"
+            android:layout_toRightOf="@+id/rllMainBottomSignal" >
+        </com.xaircraft.xmap.component.MainImageViewControl>
+
+        <com.xaircraft.xmap.component.MainImageViewControl
+            android:id="@+id/mivcLayerManage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/mivcMapQuery"
+            android:visibility="invisible" >
+        </com.xaircraft.xmap.component.MainImageViewControl>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ll03"
+        android:layout_below="@+id/llh02"
+        android:layout_marginTop="64dp"
+        android:background="@drawable/selector_location" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/relativeLayout1"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/shadow" >
+
+        <com.xaircraft.xmap.component.MainImageViewControl
+            android:id="@+id/mivcNewMap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@+id/MainImageViewControl03" >
+        </com.xaircraft.xmap.component.MainImageViewControl>
+
+        <com.xaircraft.xmap.component.MainImageViewControl
+            android:id="@+id/MainImageViewControl03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="4dp"
+            android:layout_toLeftOf="@+id/RelativeLayout01" >
+        </com.xaircraft.xmap.component.MainImageViewControl>
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayout01"
+            android:layout_width="2dp"
+            android:layout_height="32dp"
+            android:layout_centerHorizontal="true" >
+        </RelativeLayout>
+
+        <com.xaircraft.xmap.component.MainImageViewControl
+            android:id="@+id/MainImageViewControl02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="4dp"
+            android:layout_toRightOf="@+id/RelativeLayout01" >
+        </com.xaircraft.xmap.component.MainImageViewControl>
+
+        <com.xaircraft.xmap.component.MainImageViewControl
+            android:id="@+id/MainImageViewControl01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/MainImageViewControl02" >
+        </com.xaircraft.xmap.component.MainImageViewControl>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/llMapQuery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/llh02"
+        android:layout_below="@+id/llh02"
+        android:background="@drawable/shadow"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnQueryCurLayer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_fold_image" />
+
+        <Button
+            android:id="@+id/btnQueryAll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_folders_image" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llDataCollect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/relativeLayout2"
+        android:layout_alignRight="@+id/llMapQuery"
+        android:layout_marginBottom="31dp"
+        android:background="@drawable/shadow"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnManualCollect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="手动采集" />
+
+        <Button
+            android:id="@+id/btnGPSCollect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GPS采集" />
+
+        <Button
+            android:id="@+id/btnNodeCollect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="节点捕获" />
+    </LinearLayout>
+
+</RelativeLayout>

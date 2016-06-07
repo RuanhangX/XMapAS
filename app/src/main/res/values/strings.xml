@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="act_main_selectLayer">图层选择</string>
+    <string name="act_main_query">当前图层查询</string>
+    <string name="act_main_queryAll">跨图层查询</string>
+    <string name="act_main_queryByRet">包围盒查询</string>
+    <string name="act_main_queryAttribute">属性查询</string>
+    <string name="act_main_mapManage">地图管理</string>
+    <string name="act_main_mapFault">地图打开失败！</string>
+
+    <string name="act_layer_layerManage">图层管理</string>
+    <string name="act_layer_addLayer">添加图层</string>
+    <string name="act_layer_newLayer">新建图层</string>
+    <string name="act_layer_delLayer">移除图层</string>
+    <string name="act_layer_save">保存</string>
+
+    <string name="cmm_dlg_selectLayer">图层选择</string>
+    <string name="act_dlg_rectquery_xmin">xmin：</string>
+    <string name="act_dlg_rectquery_xmax">xmax：</string>
+    <string name="act_dlg_rectquery_ymin">ymin：</string>
+    <string name="act_dlg_rectquery_ymax">ymax：</string>
+    <string name="act_toast_select_layer">请先选择图层！</string>
+    <string name="act_toast_enter_number">请输入正确的数值！</string>
+    <string name="cmm_new_map">新建地图</string>
+    <string name="cmm_open_map">打开地图</string>
+    <string name="cmm_close_map">关闭地图</string>
+    <string name="cmm_save_map">保存地图</string>
+    <string name="cmm_add_layer">添加图层</string>
+    <string name="cmm_new_layer">新建图层</string>
+    <string name="cmm_remove_layer">移除图层</string>
+    <string name="cmm_map_info">地图信息</string>
+    <string name="cmm_dlg_name">地图名称</string>
+    <string name="cmm_same_dir">存在相同名称的文件夹！</string>
+    <string name="cmm_io_error">创建地图出现IO错误！</string>
+    <string name="cmm_dlg_ok">确定</string>
+    <string name="cmm_dlg_cancel">取消</string>
+    <string name="act_main_layerName">图层名称：</string>
+    <string name="act_main_layerType">图层类型：</string>
+    <string name="act_main_mapInfo">地图信息</string>
+    <string name="act_main_addLayerError">添加图层失败！</string>
+    <string name="act_main_openMap">打开地图</string>
+    <string name="act_main_newMap">新建地图</string>
+    <string name="act_main_layerManage">图层管理</string>
+    <string name="act_main_mapQuery">地图查询</string>
+    <string name="act_main_dataCollect">数据采集</string>
+    <string name="act_filedlg_location">定位</string>
+    <string name="act_filedlg_cantReadFolder">文件不能读！</string>
+    <string name="act_filedlg_new">新建</string>
+    <string name="act_filedlg_select">选择</string>
+    <string name="act_filedlg_name">文件名:</string>
+    <string name="act_filedlg_cancel">取消</string>
+    <string name="act_filedlg_create">保存</string>
+    <string name="act_filedlg_noData">没有数据</string>
+    <string name="act_filedlg_err">错误</string>
+
+    <string name="act_mapQuery">地图查询</string>
+    <string name="act_mapQuery_query">单图层查询</string>
+    <string name="act_mapQuery_queryAll">多图层查询</string>
+    <string name="act_mapQuery_queryByRet">包围盒查询</string>
+    <string name="act_mapQuery_queryAttribute">属性查询</string>
+
+
+    <string name="act_layerManage">图层管理</string>
+    <string name="act_layerManage_NewLayer">新建图层</string>
+    <string name="act_layerManage_AddLayer">添加图层</string>
+    <string name="act_layerManage_RemoveLayer">移除图层</string>
+
+
+    <string name = "select_layer">图层选择</string>
+    <string name = "collect_by_hand">手绘采集</string>
+    <string name = "collect_by_gps">GPS采集</string>
+    <string name = "collect_by_node">节点捕获</string>
+    <string name = "collect_confirm">采集确认</string>
+    <string name = "collect_cancel">取消采集</string>
+    <string name = "collect_undo">撤消</string>
+    <string name = "collect_redo">恢复</string>
+    <string name = "act_collect_map_fault">地图打开失败！</string>
+    <string name = "act_collect_translator_fault">坐标转换失败！</string>
+    <string name = "cmm_dlg_attr">属性编辑</string>
+    <string name = "cmm_cancel_collect">确认取消采集？</string>
+    <string name = "cmm_notice">提示</string>
+
+    <string-array name="act_main_Type">
+        <item>点</item>
+        <item>线</item>
+        <item>面</item>
+    </string-array>
+
+    <string-array name="act_main_earth_type">
+        <item>未知</item>
+        <item>北京54</item>
+        <item>克拉索夫斯基(Krasovsky)</item>
+        <item>西安80</item>
+        <item>IUGG1975</item>
+        <item>IUGG1979</item>
+        <item>IUGG1983</item>
+        <item>IUGG1967</item>
+        <item>WGS84</item>
+        <item>GRS80</item>
+        <item>WGS72</item>
+        <item>国家2000</item>
+        <item>Australia1965</item>
+    </string-array>
+
+</resources>
